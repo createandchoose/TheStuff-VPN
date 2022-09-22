@@ -1,0 +1,20 @@
+﻿LibertyApp
+1.0.0
+
+winexe
+C#
+.cs
+C:\Users\Aytal Popov\source\repos\liberty-winn\src\LibertyApp\obj\Debug\net6.0-windows\
+LibertyApp
+none
+false
+TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+C:\Users\Aytal Popov\source\repos\liberty-winn\src\LibertyApp\App.xaml
+101577899276
+
+2252477865
+210-2127777804
+Themes\AboutButton.xaml;Themes\ConnectButton.xaml;Themes\DarkTheme.xaml;Themes\DonateButton.xaml;Themes\TitleBar.xaml;Views\AboutView.xaml;Views\AboutWindow.xaml;Views\ConnectionView.xaml;Views\DonateView.xaml;Views\MainWindow.xaml;
+
+False
+

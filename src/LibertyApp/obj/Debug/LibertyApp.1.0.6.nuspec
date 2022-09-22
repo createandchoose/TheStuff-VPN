@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>LibertyApp</id>
+    <version>1.0.6</version>
+    <authors>LibertyApp</authors>
+    <description>Package Description</description>
+    <repository url="https://github.com/nezavisimost/FuckRKN1" />
+    <dependencies>
+      <group targetFramework="net6.0-windows7.0">
+        <dependency id="CommunityToolkit.Mvvm" version="8.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.DependencyInjection" version="6.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net6.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\Aytal Popov\Source\Repos\liberty-winn\src\LibertyApp\obj\Debug\net6.0-windows\ru-RU\LibertyApp.resources.dll" target="lib\net6.0-windows7.0\ru-RU\LibertyApp.resources.dll" />
+    <file src="C:\Users\Aytal Popov\Source\Repos\liberty-winn\src\LibertyApp\bin\Debug\net6.0-windows\LibertyApp.runtimeconfig.json" target="lib\net6.0-windows7.0\LibertyApp.runtimeconfig.json" />
+    <file src="C:\Users\Aytal Popov\Source\Repos\liberty-winn\src\LibertyApp\bin\Debug\net6.0-windows\LibertyApp.dll" target="lib\net6.0-windows7.0\LibertyApp.dll" />
+  </files>
+</package>

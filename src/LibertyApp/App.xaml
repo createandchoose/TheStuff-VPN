@@ -1,0 +1,36 @@
+﻿<Application x:Class="LibertyApp.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:view="clr-namespace:LibertyApp.Views"
+             xmlns:viewModel="clr-namespace:LibertyApp.ViewModels"
+             xmlns:ui="http://schemas.lepo.co/wpfui/2022/xaml"
+             >
+
+    <Application.Resources>
+        <ResourceDictionary>
+
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="/Themes/ConnectButton.xaml"/>
+                <ResourceDictionary Source="/Themes/DonateButton.xaml"/>
+                <ResourceDictionary Source="/Themes/AboutButton.xaml"/>
+                <ResourceDictionary Source="/Themes/DarkTheme.xaml"/>
+                <ResourceDictionary Source="/Themes/TitleBar.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+
+            <DataTemplate DataType="{x:Type viewModel:ConnectionViewModel}">
+                <view:ConnectionView />
+            </DataTemplate>
+
+            <DataTemplate DataType="{x:Type viewModel:AboutViewModel}">
+                <view:AboutView />
+            </DataTemplate>
+
+            <DataTemplate DataType="{x:Type viewModel:DonateViewModel}">
+                <view:DonateView />
+            </DataTemplate>
+
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>
+
+    
