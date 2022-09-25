@@ -8,11 +8,11 @@ namespace LibertyApp.Views;
 public partial class MainWindow : Window
 
 {
-	public MainWindow()
-	{
-		InitializeComponent();
-		DataContext = App.Current.Services.GetService<MainWindowViewModel>();
-	}
+    public MainWindow()
+    {
+        InitializeComponent();
+        DataContext = App.Current.Services.GetService<MainWindowViewModel>();
+    }
 
     private void OnWindowInitialized(object sender, EventArgs e)
     {
@@ -62,5 +62,10 @@ public partial class MainWindow : Window
     {
         AboutWindow aboutwindow = new AboutWindow();
         aboutwindow.Show();
+        double workHeight = SystemParameters.WorkArea.Height;
+        double workWidth = SystemParameters.WorkArea.Width;
+        aboutwindow.Top = (workHeight - this.Height) / 1.5;
+        aboutwindow.Left = (workWidth - this.Width) / 2.225;
     }
 }
+

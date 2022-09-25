@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aytal Popov\\source\\repos\\liberty-winn\\src\\LibertyApp\\LibertyApp.csproj": {}
+    "C:\\Users\\Aytal Popov\\Documents\\GitHub\\TheStuff-VPN\\src\\LibertyApp\\LibertyApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aytal Popov\\source\\repos\\liberty-winn\\src\\LibertyApp\\LibertyApp.csproj": {
+    "C:\\Users\\Aytal Popov\\Documents\\GitHub\\TheStuff-VPN\\src\\LibertyApp\\LibertyApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aytal Popov\\source\\repos\\liberty-winn\\src\\LibertyApp\\LibertyApp.csproj",
+        "projectUniqueName": "C:\\Users\\Aytal Popov\\Documents\\GitHub\\TheStuff-VPN\\src\\LibertyApp\\LibertyApp.csproj",
         "projectName": "stuff. VPN",
-        "projectPath": "C:\\Users\\Aytal Popov\\source\\repos\\liberty-winn\\src\\LibertyApp\\LibertyApp.csproj",
+        "projectPath": "C:\\Users\\Aytal Popov\\Documents\\GitHub\\TheStuff-VPN\\src\\LibertyApp\\LibertyApp.csproj",
         "packagesPath": "C:\\Users\\Aytal Popov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aytal Popov\\source\\repos\\liberty-winn\\src\\LibertyApp\\obj\\",
+        "outputPath": "C:\\Users\\Aytal Popov\\Documents\\GitHub\\TheStuff-VPN\\src\\LibertyApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

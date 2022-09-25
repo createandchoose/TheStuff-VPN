@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Zh2SgdnjAq5BijftNJy3UvMruW/SvN1OVtDeyb5qCPJ33sXrU/FlOFprO96yQ7VqHgmFzC9Gs7MWnP0IaL+sww==",
+  "dgSpecHash": "gO6iMT5wbyplS237eZJkj4PcWHXC+fgRHyP1u7O8CIndJ34Z3m3nKF+tjCgT+0LSwobBPC75WihyDX4uQd979w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Aytal Popov\\source\\repos\\liberty-winn\\src\\LibertyApp\\LibertyApp.csproj",
+  "projectFilePath": "C:\\Users\\Aytal Popov\\Documents\\GitHub\\TheStuff-VPN\\src\\LibertyApp\\LibertyApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aytal Popov\\.nuget\\packages\\communitytoolkit.mvvm\\8.0.0\\communitytoolkit.mvvm.8.0.0.nupkg.sha512",
     "C:\\Users\\Aytal Popov\\.nuget\\packages\\fluentwpf\\0.10.2\\fluentwpf.0.10.2.nupkg.sha512",
