@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\src",
+    "\\src\\LibertyApp",
+    "\\src\\LibertyApp\\Views"
   ],
-  "SelectedNode": "\\liberty-win.sln",
+  "SelectedNode": "\\src\\LibertyApp\\Views\\MainWindow.xaml.cs",
   "PreviewInSolutionExplorer": false
 }

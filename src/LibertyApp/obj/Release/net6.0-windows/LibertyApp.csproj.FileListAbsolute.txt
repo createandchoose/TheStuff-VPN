@@ -1,0 +1,54 @@
+C:\Users\Aytal Popov\Documents\GitHub\TheStuff-VPN\src\LibertyApp\bin\Release\net6.0-windows\Resources\vpnclient.p12
+C:\Users\Aytal Popov\Documents\GitHub\TheStuff-VPN\src\LibertyApp\bin\Release\net6.0-windows\stuff. VPN.exe
+C:\Users\Aytal Popov\Documents\GitHub\TheStuff-VPN\src\LibertyApp\bin\Release\net6.0-windows\Resources\icon.ico
+C:\Users\Aytal Popov\Documents\GitHub\TheStuff-VPN\src\LibertyApp\bin\Release\net6.0-windows\stuff. VPN.dll.config
+C:\Users\Aytal Popov\Documents\GitHub\TheStuff-VPN\src\LibertyApp\bin\Release\net6.0-windows\stuff. VPN.deps.json
+C:\Users\Aytal Popov\Documents\GitHub\TheStuff-VPN\src\LibertyApp\bin\Release\net6.0-windows\stuff. VPN.runtimeconfig.json
+C:\Users\Aytal Popov\Documents\GitHub\TheStuff-VPN\src\LibertyApp\bin\Release\net6.0-windows\stuff. VPN.dll
+C:\Users\Aytal Popov\Documents\GitHub\TheStuff-VPN\src\LibertyApp\bin\Release\net6.0-windows\stuff. VPN.pdb
+C:\Users\Aytal Popov\Documents\GitHub\TheStuff-VPN\src\LibertyApp\bin\Release\net6.0-windows\ru-RU\stuff. VPN.resources.dll
+C:\Users\Aytal Popov\Documents\GitHub\TheStuff-VPN\src\LibertyApp\bin\Release\net6.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\Aytal Popov\Documents\GitHub\TheStuff-VPN\src\LibertyApp\bin\Release\net6.0-windows\FluentWPF.dll
+C:\Users\Aytal Popov\Documents\GitHub\TheStuff-VPN\src\LibertyApp\bin\Release\net6.0-windows\MaterialDesignColors.dll
+C:\Users\Aytal Popov\Documents\GitHub\TheStuff-VPN\src\LibertyApp\bin\Release\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\Aytal Popov\Documents\GitHub\TheStuff-VPN\src\LibertyApp\bin\Release\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Aytal Popov\Documents\GitHub\TheStuff-VPN\src\LibertyApp\bin\Release\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Aytal Popov\Documents\GitHub\TheStuff-VPN\src\LibertyApp\bin\Release\net6.0-windows\Wpf.Ui.dll
+C:\Users\Aytal Popov\Documents\GitHub\TheStuff-VPN\src\LibertyApp\obj\Release\net6.0-windows\LibertyApp.csproj.AssemblyReference.cache
+C:\Users\Aytal Popov\Documents\GitHub\TheStuff-VPN\src\LibertyApp\obj\Release\net6.0-windows\Themes\ConnectButton.baml
+C:\Users\Aytal Popov\Documents\GitHub\TheStuff-VPN\src\LibertyApp\obj\Release\net6.0-windows\Themes\DarkTheme.baml
+C:\Users\Aytal Popov\Documents\GitHub\TheStuff-VPN\src\LibertyApp\obj\Release\net6.0-windows\Themes\TitleBar.baml
+C:\Users\Aytal Popov\Documents\GitHub\TheStuff-VPN\src\LibertyApp\obj\Release\net6.0-windows\Themes\DarkTheme.g.cs
+C:\Users\Aytal Popov\Documents\GitHub\TheStuff-VPN\src\LibertyApp\obj\Release\net6.0-windows\Views\AboutView.g.cs
+C:\Users\Aytal Popov\Documents\GitHub\TheStuff-VPN\src\LibertyApp\obj\Release\net6.0-windows\Views\AboutWindow.g.cs
+C:\Users\Aytal Popov\Documents\GitHub\TheStuff-VPN\src\LibertyApp\obj\Release\net6.0-windows\Views\ConnectionView.g.cs
+C:\Users\Aytal Popov\Documents\GitHub\TheStuff-VPN\src\LibertyApp\obj\Release\net6.0-windows\Views\DonateView.g.cs
+C:\Users\Aytal Popov\Documents\GitHub\TheStuff-VPN\src\LibertyApp\obj\Release\net6.0-windows\Views\MainWindow.g.cs
+C:\Users\Aytal Popov\Documents\GitHub\TheStuff-VPN\src\LibertyApp\obj\Release\net6.0-windows\App.g.cs
+C:\Users\Aytal Popov\Documents\GitHub\TheStuff-VPN\src\LibertyApp\obj\Release\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Aytal Popov\Documents\GitHub\TheStuff-VPN\src\LibertyApp\obj\Release\net6.0-windows\stuff. VPN_MarkupCompile.cache
+C:\Users\Aytal Popov\Documents\GitHub\TheStuff-VPN\src\LibertyApp\obj\Release\net6.0-windows\stuff. VPN_MarkupCompile.lref
+C:\Users\Aytal Popov\Documents\GitHub\TheStuff-VPN\src\LibertyApp\obj\Release\net6.0-windows\App.baml
+C:\Users\Aytal Popov\Documents\GitHub\TheStuff-VPN\src\LibertyApp\obj\Release\net6.0-windows\Themes\AboutButton.baml
+C:\Users\Aytal Popov\Documents\GitHub\TheStuff-VPN\src\LibertyApp\obj\Release\net6.0-windows\Themes\DonateButton.baml
+C:\Users\Aytal Popov\Documents\GitHub\TheStuff-VPN\src\LibertyApp\obj\Release\net6.0-windows\Views\AboutView.baml
+C:\Users\Aytal Popov\Documents\GitHub\TheStuff-VPN\src\LibertyApp\obj\Release\net6.0-windows\Views\AboutWindow.baml
+C:\Users\Aytal Popov\Documents\GitHub\TheStuff-VPN\src\LibertyApp\obj\Release\net6.0-windows\Views\ConnectionView.baml
+C:\Users\Aytal Popov\Documents\GitHub\TheStuff-VPN\src\LibertyApp\obj\Release\net6.0-windows\Views\DonateView.baml
+C:\Users\Aytal Popov\Documents\GitHub\TheStuff-VPN\src\LibertyApp\obj\Release\net6.0-windows\Views\MainWindow.baml
+C:\Users\Aytal Popov\Documents\GitHub\TheStuff-VPN\src\LibertyApp\obj\Release\net6.0-windows\stuff. VPN.g.resources
+C:\Users\Aytal Popov\Documents\GitHub\TheStuff-VPN\src\LibertyApp\obj\Release\net6.0-windows\LibertyApp.Language.Strings.resources
+C:\Users\Aytal Popov\Documents\GitHub\TheStuff-VPN\src\LibertyApp\obj\Release\net6.0-windows\LibertyApp.Properties.Resources.resources
+C:\Users\Aytal Popov\Documents\GitHub\TheStuff-VPN\src\LibertyApp\obj\Release\net6.0-windows\LibertyApp.Language.Strings.ru-RU.resources
+C:\Users\Aytal Popov\Documents\GitHub\TheStuff-VPN\src\LibertyApp\obj\Release\net6.0-windows\LibertyApp.csproj.GenerateResource.cache
+C:\Users\Aytal Popov\Documents\GitHub\TheStuff-VPN\src\LibertyApp\obj\Release\net6.0-windows\LibertyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aytal Popov\Documents\GitHub\TheStuff-VPN\src\LibertyApp\obj\Release\net6.0-windows\LibertyApp.AssemblyInfoInputs.cache
+C:\Users\Aytal Popov\Documents\GitHub\TheStuff-VPN\src\LibertyApp\obj\Release\net6.0-windows\LibertyApp.AssemblyInfo.cs
+C:\Users\Aytal Popov\Documents\GitHub\TheStuff-VPN\src\LibertyApp\obj\Release\net6.0-windows\LibertyApp.csproj.CoreCompileInputs.cache
+C:\Users\Aytal Popov\Documents\GitHub\TheStuff-VPN\src\LibertyApp\obj\Release\net6.0-windows\ru-RU\stuff. VPN.resources.dll
+C:\Users\Aytal Popov\Documents\GitHub\TheStuff-VPN\src\LibertyApp\obj\Release\net6.0-windows\LibertyApp.csproj.CopyComplete
+C:\Users\Aytal Popov\Documents\GitHub\TheStuff-VPN\src\LibertyApp\obj\Release\net6.0-windows\stuff. VPN.dll
+C:\Users\Aytal Popov\Documents\GitHub\TheStuff-VPN\src\LibertyApp\obj\Release\net6.0-windows\refint\stuff. VPN.dll
+C:\Users\Aytal Popov\Documents\GitHub\TheStuff-VPN\src\LibertyApp\obj\Release\net6.0-windows\stuff. VPN.pdb
+C:\Users\Aytal Popov\Documents\GitHub\TheStuff-VPN\src\LibertyApp\obj\Release\net6.0-windows\LibertyApp.genruntimeconfig.cache
+C:\Users\Aytal Popov\Documents\GitHub\TheStuff-VPN\src\LibertyApp\obj\Release\net6.0-windows\ref\stuff. VPN.dll

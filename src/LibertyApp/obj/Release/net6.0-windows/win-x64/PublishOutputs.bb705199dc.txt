@@ -1,0 +1,5 @@
+C:\Users\Aytal Popov\Documents\GitHub\TheStuff-VPN\src\LibertyApp\bin\Release\net6.0-windows\publish\win-x64\stuff. VPN.pdb
+C:\Users\Aytal Popov\Documents\GitHub\TheStuff-VPN\src\LibertyApp\bin\Release\net6.0-windows\publish\win-x64\Resources\icon.ico
+C:\Users\Aytal Popov\Documents\GitHub\TheStuff-VPN\src\LibertyApp\bin\Release\net6.0-windows\publish\win-x64\Resources\vpnclient.p12
+C:\Users\Aytal Popov\Documents\GitHub\TheStuff-VPN\src\LibertyApp\bin\Release\net6.0-windows\publish\win-x64\stuff. VPN.dll.config
+C:\Users\Aytal Popov\Documents\GitHub\TheStuff-VPN\src\LibertyApp\bin\Release\net6.0-windows\publish\win-x64\stuff. VPN.exe
